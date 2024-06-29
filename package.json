@@ -1,8 +1,10 @@
 {
     "name": "eslint-config-ncfex",
+    "version": "0.0.1",
     "main": "index.js",
     "license": "MIT",
     "type": "module",
+    "repository": "https://github.com/ncfex/eslint-config-ncfex",
     "dependencies": {
         "eslint": "^8.57.0",
         "eslint-config-airbnb-base": "^15.0.0",
