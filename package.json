@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-ncfex",
-    "version": "0.0.3",
+    "version": "0.0.2",
     "main": "index.js",
     "exports": {
         ".": "./index.js",
